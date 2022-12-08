@@ -5,8 +5,11 @@
 }
 
 p1{
+    position: absolute;
     font-size: 45px;
     padding: 60px;
+    max-width: 100px;
+    right: 60%;
     margin: 30px;
 }
 
@@ -184,8 +187,7 @@ body.dark {
     text-align: center;
     position: absolute;
     max-height: 500px;
-    max-width: 750px;
-    top: 30%;
+    max-width: 300px;
     margin-left: 6px;
     margin-right: 6px;
     font-size: 20px;
